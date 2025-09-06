@@ -1,1 +1,1 @@
-# scope-studios-landing-page
+# Scope Studios About Page
